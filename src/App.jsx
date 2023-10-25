@@ -1,10 +1,10 @@
 import React from 'react'
-import Resturant from './component/basics/Resturant'
+import Todo from './component/todoReact/Todo';
 
 const App = () => {
   return (
     <>
-      <Resturant></Resturant>
+      <Todo></Todo>
     </>
   )
 };
